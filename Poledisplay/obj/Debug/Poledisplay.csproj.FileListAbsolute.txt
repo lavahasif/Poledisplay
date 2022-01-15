@@ -1,0 +1,11 @@
+C:\Users\Hasif\RiderProjects\Poledisplay\Poledisplay\bin\Debug\Poledisplay.exe.config
+C:\Users\Hasif\RiderProjects\Poledisplay\Poledisplay\bin\Debug\Poledisplay.exe
+C:\Users\Hasif\RiderProjects\Poledisplay\Poledisplay\bin\Debug\Poledisplay.pdb
+C:\Users\Hasif\RiderProjects\Poledisplay\Poledisplay\obj\Debug\Poledisplay.csproj.AssemblyReference.cache
+C:\Users\Hasif\RiderProjects\Poledisplay\Poledisplay\obj\Debug\Poledisplay.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasif\RiderProjects\Poledisplay\Poledisplay\obj\Debug\Poledisplay.Properties.Resources.resources
+C:\Users\Hasif\RiderProjects\Poledisplay\Poledisplay\obj\Debug\Poledisplay.csproj.GenerateResource.cache
+C:\Users\Hasif\RiderProjects\Poledisplay\Poledisplay\obj\Debug\Poledisplay.csproj.CoreCompileInputs.cache
+C:\Users\Hasif\RiderProjects\Poledisplay\Poledisplay\obj\Debug\Poledisplay.exe
+C:\Users\Hasif\RiderProjects\Poledisplay\Poledisplay\obj\Debug\Poledisplay.pdb
+C:\Users\Hasif\RiderProjects\Poledisplay\Poledisplay\obj\Debug\Poledisplay.Form1.resources
